@@ -16,3 +16,7 @@ df1.to_csv('test.csv',index=False,header=None)
 这样就可以把数据保存为csv了，没有加路径，就在代码所在位置，运行一次后，注释掉就可以了
 
 结合上述两个方法，print的格式由2.7版本的转成3.6；源代码没有修改CSV，我加入上面几行保存链接为CSV格式的代码，运行正常，直接输出结果
+代码参考：
+https://github.com/rasbt/pattern_classification
+机器学习算法原理之人工神经元和单层神经网络
+http://www.ranling.com/category/it/689240.html
